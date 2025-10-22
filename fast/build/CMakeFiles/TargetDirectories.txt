@@ -1,0 +1,8 @@
+/home/lxy/svo/fast/build/CMakeFiles/fast.dir
+/home/lxy/svo/fast/build/CMakeFiles/fast_test.dir
+/home/lxy/svo/fast/build/CMakeFiles/edit_cache.dir
+/home/lxy/svo/fast/build/CMakeFiles/rebuild_cache.dir
+/home/lxy/svo/fast/build/CMakeFiles/list_install_components.dir
+/home/lxy/svo/fast/build/CMakeFiles/install.dir
+/home/lxy/svo/fast/build/CMakeFiles/install/local.dir
+/home/lxy/svo/fast/build/CMakeFiles/install/strip.dir
